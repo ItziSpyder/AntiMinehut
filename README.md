@@ -4,4 +4,4 @@
 
 ![Help](/assets/images/help.png)
 
-![About](!/assets/images/about.png)
+![About](/assets/images/about.png)
