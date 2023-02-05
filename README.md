@@ -1,4 +1,4 @@
-# AntiMinehut
+# AntiMinehut ![Icon](/assets/images/icon.png)
 #### Disable and remove all Minehut-relating plugins on your server!
 -------------------------------------------------------------------
 
