@@ -1,5 +1,5 @@
 # ![Icon](/assets/images/icon.png) AntiMinehut
-#### Disable and remove all Minehut-relating plugins on your server!
+#### Disable and remove all Minehut-relating plugins on your server! [Download Now!](/releases)
 -------------------------------------------------------------------
 
 ![Help](/assets/images/help.png)
